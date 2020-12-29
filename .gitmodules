@@ -1,6 +1,6 @@
 [submodule "algorithms"]
 	path = algorithms
-	url = C:/Program Files/Git/algorithms/
+	url = https://github.com/Firsss21/algorithms
 [submodule "learning_english"]
 	path = learning_english
 	url = https://github.com/Firsss21/learning_english_words
