@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<androidx.swiperefreshlayout.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+   xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF0099CC"
+    android:id="@+id/swipe_container"
+    android:screenOrientation="portrait"
+    tools:context=".MainActivity">
+ <RelativeLayout
+     android:layout_width="match_parent"
+     android:layout_height="match_parent"   >
+
+    <TextView
+        android:id="@+id/TV_wind"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:textColor="@android:color/white"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/TV_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/IV_icon"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/white"
+        android:textSize="35sp"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/TV_city"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="5dp"
+        android:layout_alignParentTop="true"
+        android:textColor="@android:color/white"
+        android:textSize="23sp" />
+
+    <TextView
+        android:id="@+id/TV_humidity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/TV_pressure"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/white"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/TV_errorMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:padding="16dp"
+        android:text="@string/error_message"
+        android:textColor="@android:color/white"
+        android:textSize="18sp"
+        android:visibility="invisible" />
+
+    <TextView
+        android:id="@+id/TV_pressure"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/TV_wind"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/white"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/TV_main"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/BT_pressf"
+        android:layout_centerHorizontal="true"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="15dp"
+        android:textSize="80sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/BT_pressf"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/TV_city"
+        android:layout_centerHorizontal="true"
+        android:text="Press F"
+        android:visibility="invisible" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/TV_loading"
+        android:visibility="invisible"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/TV_errorMessage"
+        android:text="loading.."
+        android:textSize="25sp"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        />
+
+    <ProgressBar
+        android:id="@+id/PB_progressbar"
+        android:visibility="invisible"
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:paddingTop="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@id/TV_loading" />
+
+    <ImageView
+        android:id="@+id/IV_icon"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_below="@+id/TV_main"
+        android:layout_centerHorizontal="true" />
+ </RelativeLayout>
+</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+

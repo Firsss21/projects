@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.url">jdbc:postgresql://192.168.1.100:5432/postgres</property>
+        <property name="connection.driver_class">org.postgresql.Driver</property>
+        <property name="hibernate.connection.username">bitkor</property>
+        <property name="hibernate.connection.password">37731995</property>
+        <property name="hibernate.connection.pool_size">5</property>
+
+        <mapping class="app.dao.JPA.QuestionsEntity"/>
+
+    </session-factory>
+</hibernate-configuration>

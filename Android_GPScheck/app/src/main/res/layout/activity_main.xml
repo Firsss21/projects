@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="5dp" ><![CDATA[
+    tools:context=".MainActivity">
+
+
+
+
+
+    ]]>
+
+    <TextView
+        android:id="@+id/tvTitleGPS"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/CHR_chronometr"
+        android:text="@string/provider_gps"
+        android:textSize="30sp"/>
+
+
+    <Button
+        android:id="@+id/BT_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="45dp"
+        android:text="Start" />
+
+    <Chronometer
+        android:id="@+id/CHR_chronometr"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/BT_start"
+        android:textSize="30sp"
+        android:layout_centerHorizontal="true" />
+
+</RelativeLayout>
