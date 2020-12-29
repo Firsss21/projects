@@ -4,3 +4,9 @@
 [submodule "learning_english"]
 	path = learning_english
 	url = https://github.com/Firsss21/learning_english_words
+[submodule "design_patterns"]
+	path = design_patterns
+	url = https://github.com/Firsss21/design_patterns_examples
+[submodule "simple_html_rpg_game"]
+	path = simple_html_rpg_game
+	url = https://github.com/Firsss21/simple_html_rpg_game
