@@ -7,6 +7,7 @@
 [submodule "design_patterns"]
 	path = design_patterns
 	url = https://github.com/Firsss21/design_patterns_examples
+	branch = master
 [submodule "simple_html_rpg_game"]
 	path = simple_html_rpg_game
 	url = https://github.com/Firsss21/simple_html_rpg_game
