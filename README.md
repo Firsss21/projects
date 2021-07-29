@@ -2,9 +2,18 @@
 
 -----
 
-### Simple html rpg game
+## Spring
 
-Простая HTML5 rpg игра (JBDC, Servlets, Maven, JSP).
+### Demo MVC
+
+[Приложение с вебмордой по созданию пользователей и todo's, с подключенными Security фильтрами (Maven, Boot, Validation, MVC, Security, Thymeleaf, Hibernate, MySql)](//github.com/Firsss21/demoMVC)
+
+### Simple rest app
+
+[Простое REST приложение по созданию пользователей и Todo. (MVC, Hib, MySql)](//github.com/Firsss21/simpleRestApp)
+
+## Android
+
 
 ### Android GPS Checker 
 
@@ -13,6 +22,22 @@
 ### Android Weather Checker
 
 Одностраничное Android приложение, показывающее погоду, получая данные через api.
+
+### Android Bugs Game
+
+[Приложение-игра, где нужно убивать жуков, каждый жук создается в новом потоке.](//github.com/Firsss21/bugs)
+
+### Android calculator
+
+[Одностраничное Android приложение, простой калькулятор с обрезанным функционалом в отличии от настоящего](//github.com/Firsss21/simple_calculator)
+
+
+## Java
+
+
+### Simple html rpg game
+
+Простая HTML5 rpg игра (JBDC, Servlets, Maven, JSP).
 
 ### Junit with mockito examples
 
@@ -33,3 +58,16 @@
 ### Question funnel
 
 Простое CRUD приложение для повторения вопросов по Java (Maven, Hibernate, Postgresql).
+
+
+## PHP
+
+### Php practis
+
+[Куча различного кода на пхп, алгоритмы, массивы, таблицы и прочее.](//github.com/Firsss21/php_practis)
+
+## Книги
+
+### Совершенный код
+
+[Супер-краткое содержание книги "Совершенный код" от Стивена Макконела](//github.com/Firsss21/complete_code_very_short_version)
