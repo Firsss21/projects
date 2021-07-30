@@ -71,3 +71,7 @@
 ### Совершенный код
 
 [Супер-краткое содержание книги "Совершенный код" от Стивена Макконела](//github.com/Firsss21/complete_code_very_short_version)
+
+### Effective java
+
+[Краткое содержание книги "Эффективная Java"](//github.com/Firsss21/effective_java_short_version/settings)
