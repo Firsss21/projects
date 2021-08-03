@@ -12,6 +12,10 @@
 
 [Простое REST приложение по созданию пользователей и Todo. (MVC, Hib, MySql)](//github.com/Firsss21/simpleRestApp)
 
+### Spring Security App
+
+[Приложение Spring Security](//github.com/Firsss21/springSecurity)
+
 ## Android
 
 
