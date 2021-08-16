@@ -16,6 +16,10 @@
 
 [Приложение Spring Security](//github.com/Firsss21/springSecurity)
 
+### Spring Data App
+
+[Приложение Spring Data](//github.com/Firsss21/springData)
+
 ## Android
 
 
