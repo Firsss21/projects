@@ -2,6 +2,15 @@
 
 -----
 
+## Docker
+
+[MongoDB + Java app (docker-compose), используется для разворачивания](//github.com/Firsss21/chatWeatherBot) бота[ (тык)](//github.com/Firsss21/chatWeatherBot)
+
+## Telegram bots
+
+### Weather bot 
+[Бот, показывающий текущую погоду, получает ее через API и кеширует ее на пять минут. Spring Boot, Spring Data, Mongo DB, развернут в Docker-compose](//github.com/Firsss21/chatWeatherBot)
+
 ## Spring
 
 ### Demo MVC
