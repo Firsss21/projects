@@ -9,7 +9,8 @@
 ## Telegram bots
 
 ### Weather bot 
-[Бот, показывающий текущую погоду, получает ее через API и кеширует ее на пять минут. Spring Boot, Spring Data, Mongo DB, развернут в Docker-compose](//github.com/Firsss21/chatWeatherBot)
+[Бот, показывающий текущую погоду. Spring Boot, Spring Data, Mongo DB, развернут в Docker-compose](//github.com/Firsss21/chatWeatherBot)
+Получает данные о погоде через API openweathermap и кладет в кеш
 
 ## Spring
 
