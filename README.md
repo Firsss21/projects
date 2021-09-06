@@ -97,4 +97,4 @@
 
 ### Effective java
 
-[Краткое содержание книги "Эффективная Java"](//github.com/Firsss21/effective_java_short_version/settings)
+[Краткое содержание книги "Эффективная Java"](//github.com/Firsss21/effective_java_short_version)
