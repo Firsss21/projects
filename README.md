@@ -8,6 +8,10 @@
 
 ## Telegram bots
 
+### Sravni Taxi bot
+
+[Бот, сравнивающий цены на такси из разных агрегаторов. Spring Boot, Spring Data, Postgresql, развернут в Docker-compose](//github.com/Firsss21/sravniTaxiBot)
+
 ### Weather bot 
 [Бот, показывающий текущую погоду. Spring Boot, Spring Data, Mongo DB, развернут в Docker-compose](//github.com/Firsss21/chatWeatherBot)
 
