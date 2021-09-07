@@ -4,7 +4,7 @@
 
 ## Docker
 
-[MongoDB + Java app (docker-compose), используется для разворачивания](//github.com/Firsss21/chatWeatherBot) бота[ (тык)](//github.com/Firsss21/chatWeatherBot)
+[MongoDB + Java app (docker-compose), используется для разворачивания](//github.com/Firsss21/weatherbotdocker) бота[ (тык)](//github.com/Firsss21/chatWeatherBot)
 
 ## Telegram bots
 
