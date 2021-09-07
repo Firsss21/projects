@@ -40,11 +40,11 @@
 
 ### Android GPS Checker 
 
-Одностраничное Android приложение, считающее среднюю скорость и пройденную дистанцию.
+[Одностраничное Android приложение, считающее среднюю скорость и пройденную дистанцию.](//github.com/Firsss21/projects/tree/master/Android_GPScheck)
 
 ### Android Weather Checker
 
-Одностраничное Android приложение, показывающее погоду, получая данные через api.
+[Одностраничное Android приложение, показывающее погоду, получая данные через api.](//github.com/Firsss21/projects/tree/master/Android_WeatherChecker)
 
 ### Android Bugs Game
 
@@ -60,27 +60,27 @@
 
 ### Simple html rpg game
 
-Простая HTML5 rpg игра (JBDC, Servlets, Maven, JSP).
+[Простая HTML5 rpg игра (JBDC, Servlets, Maven, JSP).](//github.com/Firsss21/simple_html_rpg_game)
 
 ### Junit with mockito examples
 
-Простые примеры юнит тестов с мок объектами (JUnit4, Mockito, Maven).
+[Простые примеры юнит тестов с мок объектами (JUnit4, Mockito, Maven).](//github.com/Firsss21/projects/tree/master/JUnitWithMockitoExamples)
 
 ### Algorithms 
 
-Алгоритмы, связанные с сортировками, поиском путей в графах, линейным программированием (подробнее внутри).
+[Алгоритмы, связанные с сортировками, поиском путей в графах, линейным программированием.](//github.com/Firsss21/algorithms/)
 
 ### Design patterns
 
-Примеры шаблонов проектирования (Maven).
+[Примеры шаблонов проектирования(Maven).](//github.com/Firsss21/design_patterns_examples)
 
 ### Learning english
 
-Простое CRUD приложение с графическим интерфейсе на Swing для заучивания английских слов (в виде теста) (Maven, Hibernate, Postgresql).
+[Простое CRUD приложение с графическим интерфейсе на Swing для заучивания английских слов (в виде теста) (Maven, Hibernate, Postgresql).](//github.com/Firsss21/learning_english_words)
 
 ### Question funnel
 
-Простое CRUD приложение для повторения вопросов по Java (Maven, Hibernate, Postgresql).
+[Простое CRUD приложение для повторения вопросов по Java (Maven, Hibernate, Postgresql).](//github.com/Firsss21/projects/tree/master/questionFunnel)
 
 
 ## PHP
