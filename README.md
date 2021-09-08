@@ -31,6 +31,13 @@
 
 ## Android
 
+### Android Bugs Game
+
+[Приложение-игра, где нужно убивать жуков, каждый жук создается в новом потоке.](//github.com/Firsss21/bugs)
+
+### Android calculator
+
+[Одностраничное Android приложение, простой калькулятор с обрезанным функционалом в отличии от настоящего](//github.com/Firsss21/simple_calculator)
 
 ### Android GPS Checker 
 
@@ -40,17 +47,15 @@
 
 [Одностраничное Android приложение, показывающее погоду, получая данные через api.](//github.com/Firsss21/projects/tree/master/Android_WeatherChecker)
 
-### Android Bugs Game
-
-[Приложение-игра, где нужно убивать жуков, каждый жук создается в новом потоке.](//github.com/Firsss21/bugs)
-
-### Android calculator
-
-[Одностраничное Android приложение, простой калькулятор с обрезанным функционалом в отличии от настоящего](//github.com/Firsss21/simple_calculator)
-
-
 ## Java
 
+### Algorithms 
+
+[Алгоритмы, связанные с сортировками, поиском путей в графах, линейным программированием.](//github.com/Firsss21/algorithms/)
+
+### Design patterns
+
+[Примеры шаблонов проектирования(Maven).](//github.com/Firsss21/design_patterns_examples)
 
 ### Simple html rpg game
 
@@ -60,13 +65,6 @@
 
 [Простейшие примеры юнит тестов с мок объектами (JUnit4, Mockito, Maven).](//github.com/Firsss21/projects/tree/master/JUnitWithMockitoExamples)
 
-### Algorithms 
-
-[Алгоритмы, связанные с сортировками, поиском путей в графах, линейным программированием.](//github.com/Firsss21/algorithms/)
-
-### Design patterns
-
-[Примеры шаблонов проектирования(Maven).](//github.com/Firsss21/design_patterns_examples)
 
 ### Learning english
 
