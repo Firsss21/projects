@@ -62,7 +62,7 @@
 
 ### Junit with mockito examples
 
-[Простые примеры юнит тестов с мок объектами (JUnit4, Mockito, Maven).](//github.com/Firsss21/projects/tree/master/JUnitWithMockitoExamples)
+[Простейшие примеры юнит тестов с мок объектами (JUnit4, Mockito, Maven).](//github.com/Firsss21/projects/tree/master/JUnitWithMockitoExamples)
 
 ### Algorithms 
 
