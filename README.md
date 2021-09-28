@@ -6,10 +6,10 @@
 
 ### Sravni Taxi bot
 
-[Бот, сравнивающий цены на такси из разных агрегаторов. Spring Boot, Spring Data, Postgresql,](//github.com/Firsss21/sravniTaxiBot) развернут в [Docker-compose](//github.com/Firsss21/weatherbotdocker)
+[Бот, сравнивающий цены на такси из разных агрегаторов. Spring Boot, Spring Data, Postgresql, развернут с Docker-compose](//github.com/Firsss21/sravniTaxiBot) 
 
 ### Weather bot 
-[Бот, показывающий текущую погоду. Spring Boot, Spring Data, Mongo DB, развернут в Docker-compose](//github.com/Firsss21/chatWeatherBot)
+[Бот, показывающий текущую погоду. Spring Boot, Spring Data, Mongo DB](//github.com/Firsss21/chatWeatherBot), развернут в [Docker-compose](//github.com/Firsss21/weatherbotdocker)
 
 ## Spring
 
