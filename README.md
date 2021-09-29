@@ -11,6 +11,10 @@
 ### Weather bot 
 [Бот, показывающий текущую погоду. Spring Boot, Spring Data, Mongo DB](//github.com/Firsss21/chatWeatherBot), развернут в [Docker-compose](//github.com/Firsss21/weatherbotdocker)
 
+## Руководства
+
+[Облачные технологии и Spring Cloud. (Discovery server/client, configuration server/client, load balancer)](https://github.com/Firsss21/cloud)
+
 ## Spring
 
 ### Demo MVC
