@@ -15,6 +15,8 @@
 
 [Облачные технологии и Spring Cloud. (Discovery server/client, configuration server/client, load balancer)](https://github.com/Firsss21/cloud)
 
+[Краткое введение в AOP и Spring AOP](https://github.com/Firsss21/aop)
+
 ## Spring
 
 ### Demo MVC
