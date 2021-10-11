@@ -17,6 +17,8 @@
 
 [Краткое введение в AOP и Spring AOP](https://github.com/Firsss21/aop)
 
+[JWT - это. (с примером на Spring Security)](https://github.com/Firsss21/JWT)
+
 ## Spring
 
 ### Demo MVC
