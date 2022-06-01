@@ -1,8 +1,15 @@
-# Projects 
+# Проекты
+Список моих проектов, кратких содержаний книг, закладок, статей
 
------
+
+## Kinoday 
+[Сайт кинотеатра с микросервисной архитектурой.](//github.com/Firsss21/kinoday_front) Приложение, состоящее из 5 сервисов, настроенным CI/CD пайплайном, и несколькими окружениями, с подключением сторонних API, таких как платежная система - Xsolla. Java, Spring boot, Spring cloud, CI/CD pipeline, Config server, PostgreSQL
 
 ## Telegram bots
+
+### It-interview bot
+
+[Бот, использующийся для повторения и тестирования себя на вопросах по программированию. Spring Boot, Spring Data, Postgresql, Spring cloud, CI/CD pipeline, Config Server](//github.com/Firsss21/Learning-telegram-bot) 
 
 ### Sravni Taxi bot
 
