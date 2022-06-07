@@ -72,6 +72,10 @@
 
 [Примеры шаблонов проектирования(Maven).](//github.com/Firsss21/design_patterns_examples)
 
+### Conways game
+
+[Игра «Жизнь»](//github.com/Firsss21/ConwaysGame)
+
 ### Simple html rpg game
 
 [Простая HTML5 rpg игра (JBDC, Servlets, Maven, JSP).](//github.com/Firsss21/simple_html_rpg_game)
