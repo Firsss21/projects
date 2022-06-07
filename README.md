@@ -74,7 +74,7 @@
 
 ### Conways game
 
-[Игра «Жизнь»](//github.com/Firsss21/ConwaysGame)
+[Клеточный автомат «Игра Жизнь»](//github.com/Firsss21/ConwaysGame)
 
 ### Simple html rpg game
 
