@@ -1,8 +1,10 @@
 # Проекты
 Список моих проектов, кратких содержаний книг, закладок, статей
 
+### Небольшое руководство по Docker
+[Записная книжка *фишечек* и небольшая методичка](//github.com/Firsss21/docker-guide) , хотя большинство можно заменить `docker --help`
 
-## Kinoday 
+### Kinoday 
 [Сайт кинотеатра с микросервисной архитектурой.](//github.com/Firsss21/kinoday_front) Приложение, состоящее из 5 сервисов, настроенным CI/CD пайплайном, и несколькими окружениями, с подключением сторонних API, таких как платежная система - Xsolla. Java, Spring boot, Spring cloud, CI/CD pipeline, Config server, PostgreSQL
 
 ## Telegram bots
