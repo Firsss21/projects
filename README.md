@@ -1,6 +1,9 @@
 # Проекты
 Список моих проектов, кратких содержаний книг, закладок, статей
 
+### Небольшое руководство по Mongo
+[Краткий гайд по Mongo DB](//github.com/Firsss21/mongo-guide)
+
 ### Небольшое руководство по Kubernetes
 [Краткий гайд по K8s](//github.com/Firsss21/kubernetes-guide)
 
